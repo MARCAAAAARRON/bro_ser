@@ -38,12 +38,17 @@ This uses PyInstaller to produce a standalone executable in the `dist/` folder.
 
 ## Project Structure
 bro-ser/
-├── assets/       # Icons and static resources
-├── browser/      # Core browser logic and window
-├── config/       # App configuration
-├── database/     # History, bookmarks, downloads storage
-├── ui/           # Themes and UI components
-├── main.py       # Entry point
+├── assets/
+├── browser/
+├── build/
+├── config/
+├── data/
+├── database/
+├── dist/
+├── ui/
+├── bro-ser.spec
+├── build.bat
+├── main.py
 └── requirements.txt
 
 ## License
