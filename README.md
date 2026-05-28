@@ -37,6 +37,7 @@ build.bat
 This uses PyInstaller to produce a standalone executable in the `dist/` folder.
 
 ## Project Structure
+'''
 bro-ser/
 ├── assets/
 ├── browser/
@@ -50,6 +51,7 @@ bro-ser/
 ├── build.bat
 ├── main.py
 └── requirements.txt
+'''
 
 ## License
 
