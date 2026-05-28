@@ -1,4 +1,4 @@
-# Bro-ser 🌐
+# Bro-ser 
 
 A lightweight desktop web browser built with Python and PyQt6.
 
