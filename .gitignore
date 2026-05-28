@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Runtime data
+data/
+
+# Byte-compiled / optimized
+*.egg-info/
